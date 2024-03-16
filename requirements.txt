@@ -1,0 +1,8 @@
+rembg
+PIL
+IO
+ultralytics
+numpy
+torch
+torch-vision
+opencv-python

@@ -1,0 +1,9 @@
+
+# Dataset configuration for YOLOv8 training
+path: dataset  # dataset root directory
+train: dataset  # train images directory
+val: dataset  # val images directory
+
+# Classes
+nc: 1  # number of classes
+names: ['vehicle']  # class names
